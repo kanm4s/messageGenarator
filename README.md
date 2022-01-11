@@ -20,4 +20,4 @@ Project is created with node.js version v12.19.0
 ## Setup
 
 * To run this script, using "node script.js"
-* If you want to change name of teammate, you can change name on "players" array.
+* If you want to change name of teammate, you can add parameters from command line. Example, "node script.js Kan Simple Shroud Patiphan Sushiboy"
